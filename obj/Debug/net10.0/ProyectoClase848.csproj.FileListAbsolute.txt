@@ -31,3 +31,4 @@
 /home/oscarluiis/Documents/Programacion Web/ProyectoClase848/ProyectoClase848/obj/Debug/net10.0/ProyectoClase848.pdb
 /home/oscarluiis/Documents/Programacion Web/ProyectoClase848/ProyectoClase848/obj/Debug/net10.0/ProyectoClase848.genruntimeconfig.cache
 /home/oscarluiis/Documents/Programacion Web/ProyectoClase848/ProyectoClase848/obj/Debug/net10.0/ref/ProyectoClase848.dll
+/home/oscarluiis/Documents/Programacion Web/ProyectoClase848/ProyectoClase848/obj/Debug/net10.0/ProyectoClase848.sourcelink.json
