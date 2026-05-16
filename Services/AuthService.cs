@@ -38,7 +38,7 @@ public class AuthService
          Id = Guid.NewGuid().ToString(),
          FullName = dto.FullName,
          Email = dto.Email,
-         Password = HashPassword(dto.Password),
+         PasswordHash = HashPassword(dto.Password),
          Role = "user",
          CreatedAt =  DateTime.UtcNow
      };

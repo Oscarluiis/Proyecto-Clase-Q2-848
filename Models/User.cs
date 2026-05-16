@@ -10,7 +10,7 @@ public class User
     public string Email { get; set; } = string.Empty;
     
     // La contraseña siempre va "encriptada" hasheada 
-    public string Password { get; set; } = string.Empty;
+    public string PasswordHash { get; set; } = string.Empty;
     
     // Por defecto un usuario nuevo sea solo user
     public string Role { get; set; } = "user";
